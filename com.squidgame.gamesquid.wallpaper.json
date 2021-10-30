@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "ADS_ON_START" : true, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
@@ -41,16 +41,16 @@
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "12345",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4429649",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "209720357",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
-"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
-"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+"TAPDAQ_APP_ID" : "617d7b8008fe6c2d735d7221",
+"TAPDAQ_CLIENT_KEY" : "31f7e325-302b-4c9a-a2ba-ebd0dfd764dd",
 
 //  Exit Dialog
 //  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
